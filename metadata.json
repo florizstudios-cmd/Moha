@@ -1,0 +1,6 @@
+{
+  "name": "Moha",
+  "description": "Universal high-quality video downloader for Facebook, YouTube, TikTok, Instagram, and Twitter (X) with automatic metadata removal, Room persistence, and built-in player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
